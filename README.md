@@ -5,12 +5,12 @@ LSTM is a type of RNN that can learn long-term dependencies in data.
 
 #### Prototype 
 Screeenshot of the prototype run locally: 
-![prototype] (result/image 1.png)
+![prototype](result/image%201.png)
 
 The interface enables users to input a sequence of numbers separated by commas and receive a prediction. For example, when the input sequence is 0.1, 0.2, 0.3, 0.4, 0.5, the model predicts the next value in the sequence to be approximately 0.32117.
 
 Running the prototype locally:
-![proof](result/image 2.png)
+![proof](result/image%202.png)
 
 
 
